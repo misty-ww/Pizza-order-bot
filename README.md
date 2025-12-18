@@ -111,7 +111,7 @@ pizzabot/
 GNU General Public License v3.0
 
 ## 👨‍💻 Автор
-**Архангел** - [@qARHANGEL](https://t.me/qARHANGEL)
+[@qARHANGEL](https://t.me/qARHANGEL)
 
 ---
 ⭐ **Если проект понравился - поставьте звезду на GitHub!**
