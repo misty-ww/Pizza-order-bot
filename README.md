@@ -24,7 +24,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone 
+git clone https://github.com/misty-ww/Pizza-order-bot.git
 cd pizzabot
 
 # 2. Установить зависимости
