@@ -38,7 +38,7 @@ pip install aiogram
 # hotline = "+79991234567"
 
 # 4. Запустить бота
-python main.py
+python exam.py
 ```
 
 ## 📁 Структура проекта
